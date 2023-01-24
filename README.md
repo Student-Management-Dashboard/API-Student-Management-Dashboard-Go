@@ -10,11 +10,11 @@ Backend Service API for Student Management Dashbaord that provide teacher to man
 
 Database design using Entity Relationship Diagram.
 
-![erd_api](https://user-images.githubusercontent.com/112921258/214440597-5541785d-20d8-454e-8992-f98fb2e7c0e9.jpg)
+![erd_student_management_dashboard](https://user-images.githubusercontent.com/112921258/214444833-5df9055d-8c7a-47b8-89fa-291071bebfb6.jpg)
 
 ## Open API Documentation
 
-Explore our API at this [Documentation](https://github.com/Student-Management-Dashboard/open-api-student-management-dashboard) powered by [Swagger.io](https://swagger.io/).
+Explore our API at this [Documentation](https://app.swaggerhub.com/apis-docs/YUSNARSETIYADI150403/OPEN-API-DASHBOARD/1.0.0#/) powered by [Swagger.io](https://swagger.io/).
 
 ## Tech Stack
 
